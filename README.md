@@ -5,9 +5,9 @@ Scenario: Many years ago, in the depths of the sands of Egypt lied a great
 
 Pharaoh. One day his servant betrayed him and left a curse across the land. Buried under the pyramids, his corpse lay dormant, until one day; an adventurer uncovered his tomb and unleashed chaos into the world. The mummy has awakened and is ravaging the city.
 
-Luckily, Acosta, found the ancient &quot;book of the dead&quot; (x86 binary) that has the key to take down the mummy!
+Luckily, we, found the ancient &quot;book of the dead&quot; (x86 binary) that has the key to take down the mummy!
 
-Acosta needs your help!
+We needs your help!
 
 ![](RackMultipart20201114-4-8go2vv_html_6a1a59b4a5a212bf.gif)
 
